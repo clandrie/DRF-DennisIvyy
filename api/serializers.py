@@ -6,4 +6,4 @@ class ItemSerializer(serializers.ModelSerializer):
         model = Item
         fields = '__all__' 
 
-#version 8
+#version 12
